@@ -26,6 +26,10 @@ Successfully ran the system update command.
 - How to install software updates.
 - How to use administrator privileges with sudo.
 ## Evidence
+Screenshot of the terminal showing the update command and its result.
+## Status 
+Completed .
+
 
 
 
